@@ -5407,10 +5407,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-icojs@^0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/icojs/-/icojs-0.15.0.tgz#e9c66eb25d3b393b66c2665c0766bd25b43f5617"
-  integrity sha512-WM3Mlllpe1mDKNe1TEuYMIljNQs4+Ls4DgVuHp4QCej96n6ZgccRDorEcOtGwEiBfY1K3KCz5ccSQhBL4mzr7Q==
+icojs@^0.15.1:
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/icojs/-/icojs-0.15.1.tgz#4b736c6ba6d16f5aff65746233eaff33b63c8f67"
+  integrity sha512-VbWI6oLDX6poRd94VlMR/6mR3LtS3KjgvjASe1xwZJ3bzckx7etuXonZRle+aOJsxKzjZxyLerBgS8K9SwiI7g==
   dependencies:
     bmp-js "0.1.0"
     decode-ico "^0.4.0"
