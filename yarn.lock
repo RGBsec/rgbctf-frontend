@@ -1069,10 +1069,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
-  version "7.10.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.3.tgz#670d002655a7c366540c67f6fd3342cd09500364"
-  integrity sha512-RzGO0RLSdokm9Ipe/YD+7ww8X2Ro79qiXZF3HU9ljrM+qnJmH1Vqth+hbiQZy761LnMJTMitHDuKVYTk3k4dLw==
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.10.5", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+  version "7.10.5"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.5.tgz#303d8bd440ecd5a491eae6117fd3367698674c5c"
+  integrity sha512-otddXKhdNn7d0ptoFRHtMLa8LqDxLYwTjB4nYgM1yy5N6gU/MUf8zqyyLltCH3yAVitBzmwK4us+DD0l/MauAg==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1928,38 +1928,38 @@
     "@webassemblyjs/wast-parser" "1.8.5"
     "@xtuc/long" "4.2.2"
 
-"@xstyled/core@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/core/-/core-1.17.1.tgz#a915e2bf93dc20c8e74f7f8f7e4e0410fdf8483e"
-  integrity sha512-HHPiElug7o0S5+3VbwKYXVcS7KWsD4F5+EW8myuFdROcMU31nl999KqdBfnIChsX9ZJFrBarbRgYR2L/xEqw3Q==
+"@xstyled/core@^1.17.2":
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/@xstyled/core/-/core-1.17.2.tgz#3d2f551a23897fe54087586dd78b0e8b5bf9adc8"
+  integrity sha512-4h8o3ykKTJkWht6BgD9nTGYquRtAJy1e7DSmXg4+3Puo1+0BkWKYNZrbA5kkffWwKOGTBjN1wNFEGUgSEA6/qA==
   dependencies:
-    "@babel/runtime" "^7.9.2"
-    "@xstyled/system" "^1.17.1"
+    "@babel/runtime" "^7.10.5"
+    "@xstyled/system" "^1.17.2"
 
-"@xstyled/styled-components@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/styled-components/-/styled-components-1.17.1.tgz#ea4b74e0e0bd41e0cc9488f930c21c92581e5851"
-  integrity sha512-np1gl0RrxzOBMyhI/HNiKfMor1rJnmPhEttQ9lZmlynYZ5uA4t4iAm1eJKyl6QbkM8QAklliwdkYqR8aWzySLQ==
+"@xstyled/styled-components@^1.17.2":
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/@xstyled/styled-components/-/styled-components-1.17.2.tgz#a3f5ad5ccbb4cce3eab99d6ce67f92e63bf5bb0c"
+  integrity sha512-nc1nXtUmSwsthmzw3IhFnWOZvUcGWdZVSrjvtlnp24U6lLaJEoAk3Cv8i73C0p0XlOTpQbtLR/98UjCtAxDKhw==
   dependencies:
-    "@babel/runtime" "^7.9.2"
-    "@xstyled/core" "^1.17.1"
-    "@xstyled/system" "^1.17.1"
-    "@xstyled/util" "^1.17.1"
+    "@babel/runtime" "^7.10.5"
+    "@xstyled/core" "^1.17.2"
+    "@xstyled/system" "^1.17.2"
+    "@xstyled/util" "^1.17.2"
 
-"@xstyled/system@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/system/-/system-1.17.1.tgz#d1a21eb54e12628d1705f6f28fbc0f10f9ab65a5"
-  integrity sha512-Y3NRUypWOTolC9jpCyPHqjrPoRSF0ftxdhXbOY/DDvo2Q4L76GantinJH7cEXqxQaqEl3uA0h5bsjY0F5KflSw==
+"@xstyled/system@^1.17.2":
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/@xstyled/system/-/system-1.17.2.tgz#06459804fd47abc1a3dca967c46feda9406f92b6"
+  integrity sha512-XzNpCfOnsPzP23sS5HzhYBkS0hyM0zFKUEeprtuXjeF2OJWX8ZzsHMTE2z7KEy/OW7OWw3tkoPJmmiiBQ+6/CQ==
   dependencies:
-    "@babel/runtime" "^7.9.2"
-    "@xstyled/util" "^1.17.1"
+    "@babel/runtime" "^7.10.5"
+    "@xstyled/util" "^1.17.2"
 
-"@xstyled/util@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/util/-/util-1.17.1.tgz#a3f16c1304863f76a6dc17782613a88239f32950"
-  integrity sha512-r5Jebxto3WjyvalwGdd0QLTJZE041R/BBXn+JWnDOsrxHXumG1tZ4w4/GnjH0bhA4rcUb7rP3yTffqehhMCSWQ==
+"@xstyled/util@^1.17.2":
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/@xstyled/util/-/util-1.17.2.tgz#6b6fed6f8c8acada1805721d054f31a508c59d02"
+  integrity sha512-+JaSZK1k2rOEM2YMwUOum77CPghhTyrlxuTuxyiJbdIxYSTtzBRVmPAul30V6pFRYgK8NMdfm7f+yT28rTr8pg==
   dependencies:
-    "@babel/runtime" "^7.9.2"
+    "@babel/runtime" "^7.10.5"
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
