@@ -16,7 +16,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-draggable": "^4.4.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.0",
     "react95": "https://github.com/RGBsec/react95",
     "styled-components": "^5.1.1",
     "styled-system": "^5.1.5"
