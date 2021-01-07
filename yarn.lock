@@ -1357,10 +1357,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@react95/icons@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@react95/icons/-/icons-0.3.0.tgz#63ca845d47a043efb12c91c5df2b828a3bdc9035"
-  integrity sha512-e+yGpDo/O0xj2cf9iCl2E+tKrdNfcnmpheF90hwaSrPXMaG7BUHgJUZwWNYBkRyGc/nRRVRIR8vdg+j8KXSP3w==
+"@react95/icons@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@react95/icons/-/icons-0.5.0.tgz#f78051d42732ca569d119f2c4695264a83873801"
+  integrity sha512-qWLU8ga+B7Z0JXeCV0ND9DAP7EU5FROIdzkyK3bDLjYhTWaEaYvXvBtLY3ZNi/d+O+IB0GyuiTC1fsdLCe5UKg==
 
 "@styled-system/background@^5.1.2":
   version "5.1.2"
