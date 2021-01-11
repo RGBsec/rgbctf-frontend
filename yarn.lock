@@ -1069,10 +1069,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
-  version "7.10.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.3.tgz#670d002655a7c366540c67f6fd3342cd09500364"
-  integrity sha512-RzGO0RLSdokm9Ipe/YD+7ww8X2Ro79qiXZF3HU9ljrM+qnJmH1Vqth+hbiQZy761LnMJTMitHDuKVYTk3k4dLw==
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.11.2", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+  version "7.12.5"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.12.5.tgz#410e7e487441e1b360c29be715d870d9b985882e"
+  integrity sha512-plcc+hbExy3McchJCEQG3knOsuh3HH+Prx1P6cLIkET/0dLuQDEnrT+s27Axgc9bqfsmNUNHfscgMUdBpC9xfg==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1928,38 +1928,39 @@
     "@webassemblyjs/wast-parser" "1.8.5"
     "@xtuc/long" "4.2.2"
 
-"@xstyled/core@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/core/-/core-1.17.1.tgz#a915e2bf93dc20c8e74f7f8f7e4e0410fdf8483e"
-  integrity sha512-HHPiElug7o0S5+3VbwKYXVcS7KWsD4F5+EW8myuFdROcMU31nl999KqdBfnIChsX9ZJFrBarbRgYR2L/xEqw3Q==
+"@xstyled/core@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@xstyled/core/-/core-2.1.0.tgz#c4933633b48b7faa0866114af7dfdc7941c7f04c"
+  integrity sha512-l1kWQ/sPqRY5nWX2ybu9RAb8p9jl4cZBZUiBFk0rqEuOenM6EKRoMPuV4p0f5yNsQl6hVomzw6IENtIZVwWb2A==
   dependencies:
-    "@babel/runtime" "^7.9.2"
-    "@xstyled/system" "^1.17.1"
+    "@babel/runtime" "^7.11.2"
+    "@xstyled/system" "^2.1.0"
 
-"@xstyled/styled-components@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/styled-components/-/styled-components-1.17.1.tgz#ea4b74e0e0bd41e0cc9488f930c21c92581e5851"
-  integrity sha512-np1gl0RrxzOBMyhI/HNiKfMor1rJnmPhEttQ9lZmlynYZ5uA4t4iAm1eJKyl6QbkM8QAklliwdkYqR8aWzySLQ==
+"@xstyled/styled-components@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@xstyled/styled-components/-/styled-components-2.1.0.tgz#f7f593e426670a74e8fbff96498d418e1ded9bad"
+  integrity sha512-+ZIwyzxzy98F06L14S7HKGTGYoaMQWio0QTv/FdGXEjdvIsnweUjkUTXiDSFD9n+v79i6Drp3Lb1BVon8v0lSQ==
   dependencies:
-    "@babel/runtime" "^7.9.2"
-    "@xstyled/core" "^1.17.1"
-    "@xstyled/system" "^1.17.1"
-    "@xstyled/util" "^1.17.1"
+    "@babel/runtime" "^7.11.2"
+    "@xstyled/core" "^2.1.0"
+    "@xstyled/system" "^2.1.0"
+    "@xstyled/util" "^2.0.0"
 
-"@xstyled/system@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/system/-/system-1.17.1.tgz#d1a21eb54e12628d1705f6f28fbc0f10f9ab65a5"
-  integrity sha512-Y3NRUypWOTolC9jpCyPHqjrPoRSF0ftxdhXbOY/DDvo2Q4L76GantinJH7cEXqxQaqEl3uA0h5bsjY0F5KflSw==
+"@xstyled/system@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@xstyled/system/-/system-2.1.0.tgz#ff2597d5756e4d1b032b3477d1be3839cf5cd715"
+  integrity sha512-zmAiPCgnzHGrfTHyalZ9HSfWifDrUVAYXrIPF6vcbF47xEcWhAPtPZ6sfgw7cwckoE/hG55fFLSXVaUAWFkkgQ==
   dependencies:
-    "@babel/runtime" "^7.9.2"
-    "@xstyled/util" "^1.17.1"
+    "@babel/runtime" "^7.11.2"
+    "@xstyled/util" "^2.0.0"
+    csstype "^3.0.3 "
 
-"@xstyled/util@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@xstyled/util/-/util-1.17.1.tgz#a3f16c1304863f76a6dc17782613a88239f32950"
-  integrity sha512-r5Jebxto3WjyvalwGdd0QLTJZE041R/BBXn+JWnDOsrxHXumG1tZ4w4/GnjH0bhA4rcUb7rP3yTffqehhMCSWQ==
+"@xstyled/util@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@xstyled/util/-/util-2.0.0.tgz#009c5b629ce3553b13178ffa6b99ab32d5fd2478"
+  integrity sha512-OFOflJVEEBYppcgN4Seff4x4s61S8f5oHX4HBZDnq6tim/XqvRDHjbac5A7P8fPoa9v5PBrJw2JrVyMsTGCiZQ==
   dependencies:
-    "@babel/runtime" "^7.9.2"
+    "@babel/runtime" "^7.11.2"
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
@@ -3693,6 +3694,11 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
   integrity sha512-GBrLZYZ4X4x6/QEoBnIrqb8B/f5l4+8me2dkom/j1Gtbxy0kBv6OGzKuAsGM75bkGwGAFkt56Iwg28S3XTZgSA==
   dependencies:
     cssom "0.3.x"
+
+"csstype@^3.0.3 ":
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.6.tgz#865d0b5833d7d8d40f4e5b8a6d76aea3de4725ef"
+  integrity sha512-+ZAmfyWMT7TiIlzdqJgjMb7S4f1beorDbWbsocyK4RaiqA5RTX3K14bnBWmmA9QEM0gRdsjyyrEmcyga8Zsxmw==
 
 cyclist@^1.0.1:
   version "1.0.1"
